@@ -2,6 +2,7 @@ public class Cliente {
     //Propiedades
     private String nif;
     private String nombre;
+    private String numCuenta;
     //Constructor
     public Cliente(String nif, String nombre) {
         this.nif = nif;
